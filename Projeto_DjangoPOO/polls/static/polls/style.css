@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/audrey.webp") no-repeat;
+    background-size: 600px 700px;
+}
